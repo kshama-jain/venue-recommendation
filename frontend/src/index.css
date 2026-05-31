@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background-color: #f3f4f6;
+}
+
+/* ── Sidebar layout ── */
+.app-layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-right: 1px solid #e5e7eb;
+  flex-shrink: 0;
+  transition: width 200ms ease;
+  overflow: hidden;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+}
+
+.sidebar-expanded  { width: 210px; }
+.sidebar-collapsed { width: 56px; }
+
+.sidebar-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 0.75rem 0.75rem;
+  border-bottom: 1px solid #f3f4f6;
+  min-height: 60px;
+}
+
+.sidebar-link {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+  padding: 0.5rem 0.625rem;
+  border-radius: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background 120ms, color 120ms;
+  white-space: nowrap;
+}
+
+.sidebar-link-active {
+  background: #eff6ff;
+  color: #1d4ed8;
+}
+
+.sidebar-link-inactive {
+  color: #4b5563;
+}
+
+.sidebar-link-inactive:hover {
+  background: #f9fafb;
+  color: #111827;
+}
+
+.sidebar-link-highlight {
+  color: #7c3aed;
+  background: #f5f3ff;
+}
+
+.sidebar-link-highlight:hover {
+  background: #ede9fe;
+}
+
+.app-content {
+  flex: 1;
+  overflow-y: auto;
+  min-width: 0;
+}
+
+.app-main {
+  padding: 1.5rem;
+}
+
+/* Legacy compat */
+.app-shell {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  background: white;
+  border-bottom: 1px solid #e5e7eb;
+  padding: 1rem 1.5rem;
+}
+
+.card {
+  background: white;
+  border-radius: 0.75rem;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 10px 15px -3px rgb(15 23 42 / 0.05);
+}
+
+.btn-primary {
+  @apply bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg px-4 py-2 transition;
+}
+
+.input {
+  @apply w-full border border-gray-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500;
+}
+
+.card-hover {
+  transition: box-shadow 150ms ease, transform 150ms ease;
+}
+
+.card-hover:hover {
+  box-shadow: 0 18px 30px -10px rgb(15 23 42 / 0.08);
+  transform: translateY(-1px);
+}
+
