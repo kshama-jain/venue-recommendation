@@ -22,7 +22,7 @@ CSV_COLUMNS = [
     "publisher", "h_index", "impact_score", "sjr", "quartile",
     "overall_rank", "source_quality_score", "url_confidence",
     "prestige_score", "prestige_label", "is_verified",
-    "verification_notes", "raw_text", "scraped_at",
+    "verification_notes", "raw_text", "scraped_at", "scopus_indexed",
 ]
 
 TOPICS = [
@@ -51,6 +51,19 @@ def get_metrics(title):
     except: pass
     m['sjr'] = round(m['h_index'] / 50, 2)
     return m
+
+def detect_scopus_indexing(page_text):
+    """Detect if conference/journal is Scopus or EI indexed from page content."""
+    page_lower = page_text.lower()
+    scopus_keywords = [
+        "scopus indexed", "indexed by scopus", "scopus coverage",
+        "ei indexed", "engineering index", "ei compendex",
+        "scopus/ei", "scopus & ei", "scopus and ei"
+    ]
+    for keyword in scopus_keywords:
+        if keyword in page_lower:
+            return "yes"
+    return "no"
 
 # =========================================================
 # THE HUNTER ENGINE
@@ -82,6 +95,9 @@ def run_hunter_engine(candidates, topic_name):
                 r = requests.get(url, headers=HEADERS, timeout=12)
                 soup = BeautifulSoup(r.text, "html.parser")
                 page_text = soup.get_text(" ")
+                
+                # Detect Scopus/EI indexing
+                scopus_indexed = detect_scopus_indexing(page_text)
                 
                 # Broadened search for 2025-2027
                 match = re.search(r'(\b[A-Z][a-z]+\s+\d{1,2},?\s+202[5-7]|202[5-7]-\d{2}-\d{2})', page_text)
@@ -123,7 +139,8 @@ def run_hunter_engine(candidates, topic_name):
                         "is_verified": "yes",
                         "verification_notes": "Live Verified",
                         "raw_text": page_text[:400].replace("\n", " "),
-                        "scraped_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                        "scraped_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                        "scopus_indexed": scopus_indexed
                     }
                     
                     writer.writerow(record)
