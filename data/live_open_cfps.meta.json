@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-05-27T03:42:14.004083+00:00",
+  "today": "2026-05-27",
+  "allowed_years": [
+    2026,
+    2027,
+    2028
+  ],
+  "include_pwc": true,
+  "counts": {
+    "hf_records": 53,
+    "pwc_records": 0,
+    "merged": 85,
+    "open": 26,
+    "upcoming": 57,
+    "saved": 83
+  }
+}

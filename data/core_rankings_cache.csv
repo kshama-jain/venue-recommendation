@@ -1,0 +1,385 @@
+title,acronym,rank
+International Conference on Advanced Communications and Computation,INFOCOMP,A
+AAAI Conference on Human Computation and Crowdsourcing,HCOMP,B
+"ACIS Conference on Software Engineering Research, Management and Applications",SERA,C
+"ACM Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",SIGCOMM,A
+ACM Conference on Computer and Communications Security,CCS,A
+ACM Conference on Computer Supported Cooperative Work,CSCW,A
+ACM Conference on Economics and Computation,EC,A
+ACM Conference on Embedded Networked Sensor Systems,SENSYS,A
+ACM Conference on Object Oriented Programming Systems Languages and Applications,OOPSLA,A
+ACM Conference on Security and Privacy in Wireless and Mobile Networks,CORE2023,B
+ACM Information Technology Education,SIGITE,A
+"ACM International Conference on Advances in Computer Entertainment (merged with DIMEA, Digital Interactive Media in Entertainment and Arts, in 2009)",ACE,C
+ACM International Conference on Advances in Geographic Information Systems,SIGSPATIAL,A
+ACM International Conference on Emerging Networking Experiments and Technologies,CORE2023,A
+ACM International Conference on Information and Knowledge Management,CIKM,A
+ACM International Conference on Knowledge Discovery and Data Mining,KDD,A
+ACM International Conference on Mobile Computing and Networking,MOBICOM,A
+ACM International Conference on Recommender Systems,CORE2023,A
+ACM International Conference on Research and Development in Information Retrieval,SIGIR,A
+ACM International Conference on Supercomputing,ICS,A
+"ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",FSE,A
+ACM International Conference on Web Search and Data Mining,WSDM,A
+ACM International Joint Conference on Pervasive and Ubiquitous Computing (PERVASIVE and UbiComp combined from 2013),CORE2023,A
+ACM International Symposium on Computer Architecture,ISCA,A
+ACM International Symposium on High Performance Distributed Computing,HPDC,A
+ACM International Wireless Communications and Mobile Computing Conference,IWCMC,B
+ACM Multimedia,ACMMM,A
+ACM SIG International Conference on Computer Graphics and Interactive Techniques,SIGGRAPH,A
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation,SCA,B
+"ACM SIGMOBILE International Conference on Mobile Systems, Applications and Services",CORE2023,A
+ACM SIGMOD-SIGACT-SIGART Conference on Principles of Database Systems,PODS,A
+ACM SIGOPS Symposium on Operating Systems Principles,SOSP,A
+"ACM SIGPLAN Conference on Languages, Compilers and Tools for Embedded Systems",LCTES,B
+ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation,PEPM,C
+ACM SIGSIM Conference on Principles of Advanced Discrete Simulation (was Parallel and Distributed Simulation),PADS,B
+ACM SIGUCCS Conference on User Services,SIGUCCS,A
+ACM Special Interest Group on Computer Science Education Conference,SIGCSE,A
+ACM Special Interest Group on Management of Data Conference,SIGMOD,A
+ACM Special Interest Group on Supporting Group Work (was SIGGRoup),CORE2023,B
+"ACM Symposium on Access Control Models and Technologies (previously ACM Workshop on Role-Based Access Control, RBAC, changed in 2000)",SACMAT,C
+ACM Symposium on Applied Computing,SAC,A
+ACM Symposium on Document Engineering,CORE2023,B
+ACM Symposium on Mobile Ad Hoc Networking and Computing,MOBIHOC,A
+ACM Symposium on Principles of Distributed Computing,PODC,A
+ACM Symposium on Solid and Physical Modelling,SPM,C
+ACM Symposium on Theory of Computing,STOC,A
+ACM Symposium on User Interface Software and Technology,UIST,A
+ACM Virtual Reality Software and Technology,VRST,A
+ACM Workshop on Hot Topics in Networks,HOTNETS,A
+ACM-SIGACT Symposium on Principles of Programming Languages,POPL,A
+ACM-SIGPLAN Conference on Programming Language Design and Implementation,PLDI,A
+ACM-SIGRAPH Interactive 3D Graphics and Games,I3DG,B
+ACM/IEEE International Conference on Human-Robot Interaction,HRI,A
+"ACM/IEEE International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems",MSWIM,A
+ACM/IEEE Symposium on Edge Computing,SEC,A
+ACM/IFIP/USENIX International Middleware Conference,CORE2023,A
+ACM/SIAM Symposium on Discrete Algorithms,SODA,A
+ACM/SPEC International Conference on Performance Engineering,ICPE,B
+ACS/IEEE International Conference on Computer Systems and Applications,AICCSA,C
+Advanced Concepts for Intelligent Vision Systems,ACIVS,B
+Advanced Visual Interfaces,AVI,B
+Advances in Cryptology,CRYPTO,A
+Advances in Modal Logic,CORE2023,B
+Advances in Neural Information Processing Systems (was NIPS),CORE2023,A
+Algorithmic Learning Theory,ALT,B
+Algorithms and Data Structures Symposium (was Workshop on Algorithms and Data Structures),WADS,B
+Annual Computer Security Applications Conference,ACSAC,A
+Annual Conference on Computer Science Logic,CSL,B
+Annual Conference on Innovation and Technology in Computer Science Education,CORE2023,B
+"Annual Conference on Privacy, Security and Trust",PST,C
+Annual International Workshop on Presence,ISPR,C
+Annual Meeting of the Cognitive Science Society,CORE2023,B
+Annual Meeting of the Special Interest Group on Discourse and Dialog,CORE2023,B
+Applications of Information Visualization,CORE2023,C
+Applications of Natural Language to Data Bases,NLDB,C
+Applied Computing Conference,ACC,C
+Architectural Support for Programming Languages and Operating Systems,ASPLOS,A
+Artificial Intelligence Applications and Innovations,AIAI,C
+"ArtsIT, Interactivity & Game Creation (was International Conference on Arts and Technology)",CORE2023,C
+Asia and South Pacific Design Automation Conference,ASPDAC,C
+"Asia Conference on Information, Computer and Communications Security",CORE2023,A
+Asia Pacific Conference on Communications,APCC,C
+Asia Pacific Symposium on Intelligent and Evolutionary Systems (was Australia-Japan Joint Workshop on Intelligent and Evolutionary Systems),IES,C
+Asia-Pacific Bioinformatics Conference,APBC,B
+Asia-Pacific Conference on Conceptual Modelling,APCCM,C
+Asia-Pacific Network Operations and Management Symposium,APNOMS,C
+Asia-Pacific Services Computing Conference,APSCC,C
+Asia-Pacific Software Engineering Conference,APSEC,C
+Asian Conference on Computer Vision,ACCV,B
+Asian Conference on Intelligent Information and Database Systems,ACIIDS,B
+ASIAN Symposium on Programming Languages and Systems,APLAS,B
+"Asilomar Conference on Signals, Systems and Computing",ACSSC,A
+Association for Computational Linguistics,ACL,A
+Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) annual conference,CAADRIA,C
+Australasian Computing Education Conference (ACE),ACE,B
+Australasian Conference on Combinatorial Mathematics and Combinatorial Computing,ACCMCC,C
+Australasian Conference on Information Security and Privacy,ACISP,B
+Australasian Conference on Robotics and Automation,ACRA,C
+Australasian Database Conference,ADC,B
+Australasian Document Computing Symposium,ADCS,B
+Australasian Information Security Conference,AISC,C
+Australasian Joint Conference on Artificial Intelligence,AI,B
+Australasian Language Technology Workshop,ALTA,C
+Australasian Speech Science and Technology,SST,C
+Australasian Symposium on Parallel and Distributed Computing (was AusGrid),CORE2023,C
+Australian Computer Human Interaction Conference,OZCHI,B
+Australian Data Mining Conference,CORE2023,C
+Australian Institute of Computer Ethics Conference,AICE,C
+Automated Software Engineering Conference,ASE,A
+Automation of Software Test,AST,C
+Body Sensor Networks,BSN,C
+British Computer Society Conference on Human-Computer Interaction,HCI,A
+British Machine Vision Conference,BMVC,A
+CHI PLAY: The Annual Symposium on Computer-Human Interaction in Play,CORE2023,A
+Cologne-Twente Workshop on Graphs and Combinatorial Optimization,CTW,C
+Combinatorial Pattern Matching,CPM,B
+Computability in Europe: Logic and Theory of Algorithms,CORE2023,C
+Computational Intelligence in Security for Information Systems,CISIS,A
+Computer Aided Verification,CAV,A
+Computer Algebra in Scientific Computing,CASC,B
+"Computer Animation, Information Visualisation, and Digital Effects",CORE2023,C
+Computer Graphics International,CGI,C
+Computer Sciences and Information Technologies,CSIT,A
+Conference for the International Simulation and Gaming Association,ISAGA,C
+Conference in Uncertainty in Artificial Intelligence,UAI,A
+Conference of the Association for Machine Translation in the Americas,AMTA,A
+Conference of the Association of Asian-Pacific Operational Research Societies,APORS,C
+Conference of the European Association for Machine Translation,EAMT,C
+Conference of the European Society for Fuzzy Logic and Technologies,EUSFLAT,C
+Conference on Agile Software Development,XP,B
+Conference on Algebra and Coalgebra in Computer Science,CALCO,B
+Conference on Algorithmic Aspects in Information and Management,AAIM,C
+Conference on Combinatorial Optimization and Applications,COCOA,C
+Conference on Computational Natural Language Learning,CORE2023,B
+CONFERENCE ON COMPUTER SCIENCE AND INTELLIGENCE SYSTEMS,CORE2023,A
+Conference on File and Storage Technologies,FAST,A
+Conference on Fun with Algorithms,FUN,A
+Conference on Games (was Computational Intelligence and Games CIG),COG,C
+Conference on Information Sciences and Systems,CISS,A
+"Conference on Innovation in Clouds, Internet and Networks",ICIN,A
+Conference on Innovative Data Systems Research,CIDR,A
+Conference on Integer Programming and Combinatorial Optimization,IPCO,A
+Conference on Intelligent Computer Mathematics,CICM,C
+"Conference on Interactive Theorem Proving (previously TPHOLs, changed in 2009)",ITP,A
+Conference on Learning Theory,COLT,A
+Conference on Security and Cryptography for Networks,SCN,A
+"Conference on Software Engineering Education and Training (previously Conference is Software Engineering Education, CSEE, changed in 1997)",CSEET,C
+Conference on Software in Telecommunications and Computer Networks,SOFTCOM,A
+Conference on Theory and Applications of Models of Computation,TAMC,C
+Conference on Visualization and Data Analysis,VDA,A
+"Cooperative Design, Visualization, and Engineering",CDVE,C
+Cryptographers Track at RSA Conference,CT-RSA,B
+Current Trends in Theory and Practice of Computer Science,SOFSEM,B
+Data Compression Conference,DCC,B
+Data Warehousing and Knowledge Discovery,CORE2023,B
+"Datenbanksysteme für Business, Technologie und Web",BTW,A
+"Design, Automation and Test in Europe Conference",DATE,B
+Designing Interactive Systems,DIS,A
+Developments in eSystems Engineering,CORE2023,C
+Developments in Language Theory,DLT,C
+Digital Audio Effects Conference,DAFX,C
+Digital Games Research Conference,DIGRA,C
+Digital Image Computing Techniques and Applications,DICTA,C
+Discovery Science,DS,B
+DNA Computing and Molecular Programming,DNA,B
+Dynamic Languages Symposium,DLS,C
+Educational Data Mining,EDM,B
+"EMAS (merger of DALT, AOSE and PROMAS)",EMAS,B
+Empirical Methods in Natural Language Processing,EMNLP,A
+ETHICOMP Conference,ETHICOMP,C
+EURO AMERICAN CONFERENCE ON TELEMATICS AND INFORMATION SYSTEMS,EATIS,C
+Euro XR International Conference (was Euro VR),CORE2023,C
+"EuroConference on Combinatorics, Graph Theory and Applications",CORE2023,C
+Eurographics Symposium on Parallel Graphics and Visualization,EGPGV,C
+Eurographics/IEEE Symposium on Visualization,CORE2023,B
+Euromicro Conference on Real-Time Systems,ECRTS,B
+Euromicro Conference on Software Engineering and Advanced Applications,SEAA,B
+"Euromicro International Conference on Parallel, Distributed and Network Based Processing",PDP,C
+European Association for Computational Linguistics,EACL,A
+European Chapter on Combinatorial Optimization,ECCO,C
+European Conference on Artificial Intelligence,ECAI,A
+European Conference on Computational Biology,ECCB,C
+European Conference on Computer Supported Cooperative Work,ECSCW,B
+European Conference on Computer Vision,ECCV,A
+European Conference on Digital Government (was European Conference on e-Government ECEG),ECDG,C
+European Conference on Evolutionary Computation in Combinatorial Optimisation,CORE2023,B
+European Conference on Genetic Programming,EUROGP,B
+European Conference on Information Retrieval,ECIR,A
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Database (PKDD and ECML combined from 2008),CORE2023,A
+European Conference on Modelling Foundations and Applications,ECMFA,B
+European Conference on Multi-Agent Systems,EUMAS,C
+European Conference on Object-Oriented Programming,ECOOP,A
+European Conference on Operations Research,EURO,C
+European Conference on Software Architecture,ECSA,A
+European Conference on Symbolic and Quantitative Approaches to Reasoning with Uncertainty,ECSQARU,C
+European Conference on Technology Enhanced Learning,EC-TEL,B
+European Dependable Computing Conference,EDCC,A
+European MPI Users' Group Conference,CORE2023,C
+European SPI,CORE2023,B
+European Symposium on Algorithms,ESA,A
+European Symposium on Artificial Neural Networks,ESANN,B
+European Symposium on Programming,ESOP,A
+European Symposium On Research In Computer Security,ESORICS,A
+European Workshop on Computational Geometry,CORE2023,C
+European-Japanese Conference on Information Modelling and Knowledge Bases,EJC,C
+Eurosys Conference,CORE2023,A
+Exploring Modelling Methods in Systems Analysis and Design,EMMSAD,C
+Extended Semantic Web Conference (was European Semantic Web Conference),ESWC,B
+Extending Database Technology,EDBT,A
+Eye Tracking Research and Applications,ETRA,B
+Financial Cryptography and Data Security Conference,FC,A
+Flexible Query-Answering Systems,FQAS,C
+Formal Methods in Computer-Aided Design,FMCAD,B
+Forum on Specification and Design Languages,FDL,C
+Foundations of Genetic Algorithms,FOGA,A
+Foundations of Software Science and Computational Structures,FOSSACS,A
+Frontiers in Education,FIE,C
+Fundamental Approaches to Software Engineering,FASE,B
+Genetic and Evolutionary Computations,GECCO,A
+Geometry Modeling and Processing,GMP,C
+"GI International Conference on Detection of Intrusions and Malware, and Vulnerability Assessment",DIMVA,C
+Graph Drawing,GD,A
+Graphics Interface,GI,B
+Haskell Workshop,HASKELL,C
+HCist - International Conference on Health and Social Care Information Systems and Technologies,CORE2023,A
+Health Informatics Conference,HIC,C
+Heterogeneity in Computing Workshop,HCW,C
+Human System Interaction,HSI,C
+Human-Agent Interaction,HAI,B
+IADIS International Conference Applied Computing,CORE2023,C
+IberoAmerican Congress on Pattern Recognition,CIARP,C
+"ICT in Education, Research, and Industrial Applications",ICTERI,A
+IEEE Automatic Speech Recognition and Understanding Workshop,ASRU,C
+IEEE Bioinformatics and Bioengineering,BIBE,C
+IEEE Computer Security Foundations Symposium (was CSFW),CSF,A
+IEEE Conference of the Open Innovations Association FRUCT,FRUCT,A
+IEEE Conference on Cognitive and Computational Aspects of Situation Management,CORE2023,A
+IEEE Conference on Computational Complexity,CCC,A
+IEEE Conference on Computer Vision and Pattern Recognition,CVPR,A
+IEEE Conference on Local Computer Networks,LCN,B
+IEEE Conference on Mass Storage Systems and Technologies,MSST,A
+"IEEE Conference on Systems, Man and Cybernetics",SMC,B
+IEEE Conference on Virtual Reality and 3D User Interfaces,VR,A
+IEEE Congress on Evolutionary Computation,CEC,B
+IEEE Congress on Services,SERVICES,B
+IEEE Consumer Communications and Networking Conference,CORE2023,B
+IEEE European Symposium on Security and Privacy,CORE2023,A
+IEEE European Test Symposium,ETS,A
+IEEE Global Internet Symposium,GI,C
+IEEE Global Telecommunications Conference,GLOBECOM,B
+IEEE Industrial Electronics Society,IECON,A
+IEEE Industry Applications Society Annual Conference,IAS,A
+"IEEE International Conference on Acoustics, Speech and Signal Processing",ICASSP,B
+IEEE International Conference on Advanced Learning Technologies,ICALT,B
+IEEE International Conference on Advanced Video and Signal Based Surveillance,AVSS,B
+IEEE International Conference on Automatic Face and Gesture Recognition,FG,B
+IEEE International Conference on Automation Science and Engineering,CASE,A
+IEEE International Conference on Big Data,CORE2023,B
+IEEE International Conference on Blockchain and Cryptocurrency,ICBC,C
+IEEE International Conference on Cloud Computing,CLOUD,B
+IEEE International Conference on Cloud Computing in Emerging Markets,CCEM,A
+IEEE International Conference on Cloud Computing Technology and Science (International Conference on Cloud Computing pre 2010),CORE2023,C
+IEEE International Conference on Cluster Computing,CLUSTER,B
+IEEE International Conference on Cognitive Informatics,ICCI,C
+IEEE International Conference on Computer and Information Technology,CIT,C
+IEEE International Conference on Computer Communications,INFOCOM,A
+IEEE International Conference on Computer Vision,ICCV,A
+IEEE International Conference on Cybernetics and Intelligent Systems,CIS,C
+IEEE International Conference on Data Mining,ICDM,A
+IEEE International Conference on Data Science and Advanced Analytics,DSAA,B
+IEEE International Conference on Data Science and Engineering,ICDSE,A
+IEEE International Conference on Distributed Computing in Sensor Systems,DCOSS,B
+IEEE International Conference on Document Analysis and Recognition,ICDAR,A
+IEEE International Conference on e-Science and Grid Computing,CORE2023,B
+IEEE international conference on ehealth networking applications and services (was International Workshop on Enterprise Networking and Computing in Health Care Industry; changed 2006),CORE2023,C
+IEEE International Conference on Emerging Technologies and Factory Automation,ETFA,A
+IEEE International Conference on Engineering of Complex Computer Systems,ICECCS,B
+IEEE International Conference on Fog and Edge Computing,ICFEC,C
+IEEE International Conference on Fuzzy Systems,FUZZ-IEEE,B
+IEEE International Conference on Global Software Engineering,ICGSE,C
+IEEE International Conference on High Performance Computing and Communications,HPCC,C
+IEEE International Conference on Image Processing,ICIP,B
+IEEE International Conference on Industrial Informatics,INDIN,A
+IEEE International Conference on Information Reuse and Integration,IRI,A
+IEEE International Conference on Intelligence and Security Informatics,ISI,C
+IEEE International Conference on Intelligent Computer Communication and Processing,ICCP,A
+IEEE International Conference on Intelligent Systems,CORE2023,C
+IEEE International Conference on Mobile Ad-hoc and Sensor Systems,MASS,B
+IEEE International Conference on Multimedia and Expo,ICME,A
+IEEE International Conference on Pervasive Computing and Communications,PERCOM,A
+"IEEE International Conference on Program Comprehension (previously IWPC, changed in 2006)",ICPC,A
+IEEE International Conference on Robotics and Automation,ICRA,A
+"IEEE International Conference on Sensing, Communication and Networking",SECON,B
+"IEEE International Conference on Software Analysis, Evolution and Reengineering",SANER,A
+"IEEE International Conference on Software Maintenance and Evolution (prior to 2014 was ICSM, IEEE International Conference on Software Maintenance)",ICSME,A
+IEEE International Conference on Software Services Engineering (previously IEEE International Conference on Services Computing SCC),CORE2023,B
+IEEE International Conference on Visual Communications and Image Processing (was SPIE ... pre 2011),VCIP,C
+IEEE International Conference on Web Services,ICWS,A
+"IEEE International Conference on Wireless and Mobile Computing, Networking and Communications",CORE2023,B
+IEEE International Enterprise Distributed Object Computing Conference,EDOC,B
+IEEE International Geoscience and Remote Sensing Symposium,IGARSS,C
+IEEE International Joint Conference on Neural Networks,IJCNN,B
+IEEE International Parallel and Distributed Processing Symposium (was IPPS and SPDP),IPDPS,A
+IEEE International Performance Computing and Communications Conference,IPCCC,C
+IEEE International Requirements Engineering Conference,RE,A
+IEEE International Scientific Conference on Informatics,CORE2023,A
+"IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",CORE2023,B
+IEEE International Symposium on Adaptive Dynamic Programming and Reinforcement Learning,CORE2023,C
+IEEE International Symposium on Artificial Life,CORE2023,C
+"IEEE International Symposium on Cluster, Cloud and Grid Computing",CCGRID,B
+IEEE International Symposium on Information Theory,ISIT,B
+IEEE International Symposium on Multimedia,ISM,C
+IEEE International Symposium on Network Computing and Applications,NCA,B
+IEEE International Symposium on Parallel and Distributed Processing with Applications,ISPA,C
+IEEE International Symposium on Performance Analysis of Systems and Software,ISPASS,B
+IEEE International Symposium on Personal and Indoor Mobile Radio Conference,PIMRC,B
+IEEE International Symposium on Rapid System Prototyping (was IEEE Symposium on Rapid Prototyping),RSP,C
+IEEE International Symposium on Real-Time Distributed Computing,ISORC,C
+IEEE International Symposium on Wearable Computers,ISWC,A
+IEEE International Test Conference,ITC,A
+IEEE International Working Conference on Mining Software Repositories,MSR,A
+IEEE International Working Conference on Software Visualisation,VISSOFT,B
+IEEE International Working Conference on Source Code Analysis and Manipulation,SCAM,C
+IEEE International Workshop on Quality of Service,CORE2023,B
+IEEE LAN/MAN Workshop,LANMAN,C
+IEEE Network Operations and Management Symposium,NOMS,B
+IEEE Pacific Visualization Symposium (was APVIS),CORE2023,B
+IEEE Real-Time and Embedded Technology and Applications Symposium,RTAS,A
+IEEE Region 10 Conference,CORE2023,C
+IEEE Software Engineering Workshop,SEW,C
+IEEE Swarm Intelligence Symposium,CORE2023,C
+IEEE Symposium on Computational Intelligence and Data Mining,CIDM,C
+IEEE Symposium on Computational Intelligence for Financial Engineering,CORE2023,C
+IEEE Symposium on Computational intelligence for Multimedia Signal and Vision Processing,CORE2023,C
+IEEE Symposium on Computational Intelligence for Security and Defence Applications,CORE2023,C
+IEEE Symposium on Computational Intelligence in Bioinformatics and Computational Biology,CIBCB,C
+IEEE Symposium on Computational Intelligence in Control and Automation,CORE2023,C
+IEEE Symposium on Computational Intelligence in Cyber Security,CORE2023,C
+IEEE Symposium on Computer Arithmetic,ARITH,C
+IEEE Symposium on Computers and Communications,ISCC,C
+IEEE Symposium on Field Programmable Custom Computing Machines,FCCM,B
+IEEE Symposium on Foundations of Computer Science,FOCS,A
+IEEE Symposium on High-Performance Interconnects,HOTI,A
+IEEE Symposium on Logic in Computer Science,LICS,A
+IEEE Symposium on Security and Privacy,SP,A
+IEEE Symposium on Visual Languages and Human-Centric Computing (was VL),CORE2023,B
+IEEE Vehicular Technology Conference,VTC,B
+IEEE Visualization,CORE2023,A
+IEEE VLSI Test Symposium,VTS,A
+IEEE Wireless Communications and Networking Conference,WCNC,B
+IEEE Workshop on Applications of Computer Vision,WACV,A
+IEEE Workshop on High Performance Switching and Routing,HPSR,C
+IEEE/ACIS International Conference on Computer and Information Science,ICIS,C
+IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining,ASONAM,B
+"IEEE/ACM International Conference on Big Data Computing, Applications and Technologies",BDCAT,C
+IEEE/ACM International Conference on Computer-Aided Design,ICCAD,A
+IEEE/ACM International Symposium on Mixed and Augmented Reality,ISMAR,A
+IEEE/IFIP International Conference on Dependable Systems and Networks,DSN,A
+IEEE/IFIP International Conference on Embedded and Ubiquitous Computing,EUC,C
+IEEE/RSJ International Conference on Intelligent Robots and Systems,IROS,A
+IEEE/WIC/ACM International Conference on Web Intelligence (previously joint with Intelligent Agent Technology WI-IAT),WI,B
+IFAC Conference on System Structure and Control,SSSC,C
+"IFAC Symposium on Fault Detection, Supervision and Safety of Technical Processes",CORE2023,C
+IFIP Information Security & Privacy Conference,CORE2023,B
+IFIP International Conference on Distributed Applications and Interoperable Systems,DAIS,C
+IFIP International Conference on Network and Parallel Computing,NPC,C
+IFIP International Conference on Networking,CORE2023,B
+"IFIP International Symposium on Computing Performance, Modelling, Measurement and Evaluation",PERFORMANCE,A
+"IFIP Joint International Conference on Formal Description Techniques and Protocol Specification, Testing, And Verification",FORTE,C
+IFIP TC13 Conference on Human-Computer Interaction,CORE2023,B
+IFIP WG 11.3 Working Conference on Data and Applications Security (also known as DBSEC),DBSEC,B
+IFIP WG8.1 Working Conference on the Practice of Enterprise Modeling,CORE2023,A
+IFIP Working Conferences on Virtual Enterprises,PRO-VE,C
+IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks,PEMWN,C
+IFIP/IEEE International Symposium on Integrated Management (even years sharing with NOMS),IM,B
+IFSA World Congress,IFSA,C
+IMA International Conference on Cryptography and Coding,IMACC,C
+Image and Vision Computing Conference,IVCNZ,C
+Inductive Logic Programming,ILP,B
+Industrial Simulation Conference,ISC,C
+Information Hiding and Multimedia Security Workshop,CORE2023,C
+Information Integration and Web-based Applications and Services,IIWAS,C
+Information Processing in Sensor Networks,IPSN,A
+Information Security Conference,ISC,C
